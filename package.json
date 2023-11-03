@@ -1,0 +1,42 @@
+{
+  "name": "airdrop-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "PORT=3009 next dev",
+    "build": "next build",
+    "export": "env-cmd -f .env.prod next build && next export",
+    "start": "PORT=3009 next start",
+    "start:prod": "rm -rf node_modules && rm -rf .next && rm -rf yarn.lock && yarn && yarn build && yarn start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@headlessui/react": "^1.6.5",
+    "i18next": "^21.6.14",
+    "i18next-browser-languagedetector": "^6.1.4",
+    "next": "12.2.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-lottie": "^1.2.3"
+  },
+  "devDependencies": {
+    "@babel/runtime": "7.13.8",
+    "@heroicons/react": "^2.0.18",
+    "@tailwindcss/forms": "^0.5.2",
+    "@types/node": "18.0.1",
+    "@types/react": "18.0.1",
+    "@types/react-dom": "18.0.1",
+    "@types/react-lottie": "^1.2.6",
+    "autoprefixer": "^10.4.7",
+    "env-cmd": "^10.1.0",
+    "eslint": "8.19.0",
+    "eslint-config-next": "12.2.0",
+    "formik": "^2.2.9",
+    "moment": "^2.29.3",
+    "postcss": "^8.4.14",
+    "react-country-flag": "^3.0.2",
+    "tailwindcss": "^3.1.4",
+    "typescript": "4.7.4",
+    "yup": "^0.32.11"
+  }
+}

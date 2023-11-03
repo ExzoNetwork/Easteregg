@@ -1,0 +1,47 @@
+{
+  "es": "Spanish",
+  "gb": "English",
+  "step": "Step",
+  "page.home.head.title": "$XZO Token Airdrop GET LUCKY!",
+  "airdrop.end.text": [
+    "<b>",
+    "Airdrop $XZO Phase 1 has finished!",
+    "</b>"
+  ],
+  "page.home.meta.description": "EOT Token Airdrop, 10 winners get 2000 $XZO tokens + 50 USDT",
+  "page.home.participate.text": [
+    "<p>",
+    "To participate in $XZO Token Airdrop, please fill out all the steps in the form. Good luck!",
+    "</p>",
+    "<p>",
+    "⏩ 10 Winners will get <b>2000 $XZO</b> Tokens + <b>10 USDT</b> 💸 each.",
+    "</p>",
+    "<p>",
+    "⏩ 50 Winners will get <b>1000 $XZO</b> Tokens + <b>5 USDT</b> 💸 each.",
+    "</p>",
+    "<p>",
+    "⏩ 25 Winners will get <b>500 $XZO</b> Tokens 💸 each.",
+    "</p>",
+    "<p>",
+    "⏩ 25 Winners will get <b>250 $XZO</b> Tokens 💸 each.",
+    "</p>"
+  ],
+  "thirdform.address.placeholder": "Enter Your Binance Smart Chain Wallet address",
+  "secondform.error.text": "Please complete clicking on all buttons",
+  "general.step": "STEP",
+  "general.prev": "Previous",
+  "general.next": "Next",
+  "general.submit": "Submit",
+  "general.days": "days",
+  "general.hours": "hours",
+  "general.minutes": "minutes",
+  "general.seconds": "seconds",
+  "error.submit.text": "System Error! Due to a high requests there was a problem, please try again in couple of minutes",
+  "success.submit.text": [
+    "<b>",
+    "<i>",
+        "SUCCESS! Thank you for participating in $XZO Airdrop. All results will be published on our Twitter and Telegram accounts!",
+    "</i>",
+    "</b>"
+]
+}

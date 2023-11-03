@@ -1,0 +1,47 @@
+{
+  "es": "Spanish",
+  "gb": "English",
+  "step": "Paso",
+  "page.home.head.title": "GRUUK Token Airdrop GET LUCKY!",
+  "airdrop.end.text": [
+      "<b>",
+      "EDITABLE AIRDROP END TEXT",
+      "</b>"
+  ],
+  "page.home.meta.description": "GRK Token Airdrop, 25 winners get 1000 GRK tokens + 10 USDT ESP",
+  "page.home.participate.text": [
+      "<p>",
+      "To participate in GRUUK Token Airdrop, please fill out all the steps in the form. Good luck!",
+      "</p>",
+      "<p>",
+      "⏩ 25 Winners will get 1000 $GRK Tokens + 10 USDT 💸 each.",
+      "</p>",
+      "<p>",
+      "⏩ 25 Winners will get 500 $GRK Tokens + 5 USDT 💸 each.",
+      "</p>",
+      "<p>",
+      "⏩ 25 Winners will get 250 $GRK Tokens 💸 each.",
+      "</p>",
+      "<p>",
+      "⏩ 25 Winners will get 100 $GRK Tokens 💸 each.ESP",
+      "</p>"
+  ],
+  "thirdform.address.placeholder": "Enter Your Binance Smart Chain Wallet address ESP",
+  "secondform.error.text": "Please complete clicking on all buttons",
+  "general.step": "PASO",
+  "general.prev": "anterior",
+  "general.next": "siguiente",
+  "general.submit": "Enviar",
+  "general.days": "days",
+  "general.hours": "hours",
+  "general.minutes": "minutes",
+  "general.seconds": "segundos",
+  "error.submit.text": "System Error! Due to a high requests there was a problem, please try again in couple of minutes",
+  "success.submit.text": [
+    "<b>",
+    "<i>",
+        "SUCCESS FINISHED GOOD THANKS FOR PARTICIPATION",
+    "</i>",
+    "</b>"
+]
+}

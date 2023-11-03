@@ -1,0 +1,6 @@
+Sitemap: https://gruuk.netlify.app/sitemap.xml
+User-agent: *
+Disallow:
+Allow: /
+Allow: /gb
+Allow: /es
